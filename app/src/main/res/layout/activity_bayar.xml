@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_bayar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.contoh.rachgunawan.BayarActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin">
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="Rekening 1"
+                    android:layout_gravity="center"
+                    />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/nama"/>
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/namaku"
+                    />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/namabank"/>
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/bank1"
+                     />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/norek"/>
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/rek1"/>
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="Rekening 2"
+                    android:layout_gravity="center"
+                    />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/nama"/>
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/namaku"
+                    android:id="@+id/textView8" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/namabank"/>
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/bank2"
+                    android:id="@+id/textView2" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/norek"/>
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/rek2"/>
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="Rekening 3"
+                    android:layout_gravity="center"
+                    />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/nama"/>
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/namaku" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/namabank"/>
+
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/bank3" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/norek"/>
+                <TextView
+                    style="@style/TextSpec.Value"
+                    android:text="@string/rek3"/>
+            </TableRow>
+        </TableLayout>
+</FrameLayout>
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="19dp"
+            android:text="Beranda"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+</LinearLayout>
+
+
+</ScrollView>
+

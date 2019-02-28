@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">RachGunawan</string>
+    <string name="deskripsi">Deskripsi</string>
+
+    <string name="warna_tersedia0">Cokelat dan Kuning</string>
+    <string name="warna_tersedia1">Cokelat dan Kuning</string>
+    <string name="warna_tersedia2">Kuning dan Biru</string>
+    <string name="warna_tersedia3">Merah, emas dan Kuning</string>
+    <string name="warna_tersedia4">Merah, cokelat, emas dan Kuning</string>
+    <string name="warna_tersedia5">kuning, hijau dan Merah</string>
+    <string name="warna_tersedia6">hitam, putih dan Merah</string>
+
+    <string name="ukuran0">5000 x 3000 mm</string>
+    <string name="ukuran1">3000 x 1000 mm</string>
+    <string name="ukuran2">2500 x 1500 mm</string>
+    <string name="ukuran3">2000 x 1000 mm</string>
+    <string name="ukuran4">2700 x 1500 mm</string>
+    <string name="ukuran5">3000 x 2500 mm</string>
+    <string name="ukuran6">1000 x 700 mm</string>
+
+    <string name="stock0">Stock tersisa hanya 9 buah</string>
+    <string name="stock1">Stock tersisa hanya 7 buah</string>
+    <string name="stock2">Stock tersisa hanya 6 buah</string>
+    <string name="stock3">Stock tersisa hanya 5 buah</string>
+    <string name="stock4">Stock tersisa hanya 4 buah</string>
+    <string name="stock5">Stock tersisa hanya 3 buah</string>
+    <string name="stock6">Stock tersisa hanya 2 buah</string>
+
+
+    <string name="spesifikasi">Spesifikasi</string>
+
+    <string name="spesifikasi_deskripsi0">Kain Polos aneka warna. Berkualitas export. Dibuat dengan menggunakan bahan - bahan alami. Serta peralatan yang sederhana.</string>
+    <string name="spesifikasi_deskripsi1">Kain Batik asli dari tanah Jawa. Dibuat dengan menggunakan bahan - bahan alami. Serta peralatan yang sederhana, yang telah turun temurun.</string>
+    <string name="spesifikasi_deskripsi2">Kain Sambas asli dari Kalimantan Barat. Dibuat dengan menggunakan bahan - bahan alami. Serta peralatan yang sederhana, yang telah turun temurun.</string>
+    <string name="spesifikasi_deskripsi3">Kain Songket asli dari Palembang. Dibuat dengan menggunakan bahan - bahan alami. Serta peralatan yang sederhana, yang telah turun temurun.</string>
+    <string name="spesifikasi_deskripsi4">Kain Tapis asli dari Lampung.Dibuat dengan menggunakan bahan - bahan alami. Serta peralatan yang sederhana, yang telah turun temurun.</string>
+    <string name="spesifikasi_deskripsi5">Kain Ulos asli dari Sumatera Utara.Dibuat dengan menggunakan bahan - bahan alami. Serta peralatan yang sederhana, yang telah turun temurun.</string>
+    <string name="spesifikasi_deskripsi6">Kain Tenun Maumere asli dari Nusa Tenggara Timur. Dibuat dengan menggunakan bahan - bahan alami. Serta peralatan yang sederhana, yang telah turun temurun.</string>
+
+    <string name="Warna">Warna</string>
+
+    <string name="size">Size</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="rachmat_gunawan">Rachmat Gunawan</string>
+    <string name="beli">Beli</string>
+
+    <string name="harga0">Rp 1.000.000</string>
+    <string name="harga1">Rp 1.500.000</string>
+    <string name="harga2">Rp 2.000.000</string>
+    <string name="harga3">Rp 2.500.000</string>
+    <string name="harga4">Rp 3.000.000</string>
+    <string name="harga5">Rp 3.500.000</string>
+    <string name="harga6">Rp 2.700.000</string>
+
+    <string name="akun">Anda belum memiliki akun?</string>
+    <string name="buatakun">Buat akun</string>
+
+    <string name="nama">Nama Pemilik Rekening</string>
+    <string name="namaku">Rachmat Gunawan</string>
+    <string name="namabank">Nama Bank</string>
+    <string name="bank1">Bank BNI</string>
+    <string name="norek">No Rekening</string>
+    <string name="rek1">0123456</string>
+
+    <string name="bank2">Bank BRI</string>
+    <string name="rek2">3435356366379</string>
+
+    <string name="bank3">Bank Mandiri</string>
+    <string name="rek3">156-3546-09-9-0987</string>
+
+</resources>
